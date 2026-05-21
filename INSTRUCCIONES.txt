@@ -1,4 +1,0 @@
-Coloca aquí tu archivo Excel:
-  Resultado_respuesta_ONNET_SN.xls
-
-El nombre debe coincidir exactamente con el configurado en scripts/generar_dashboard.py
